@@ -1,0 +1,112 @@
+[03-Jul-2023 23:40:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[03-Jul-2023 23:40:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[03-Jul-2023 23:40:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[03-Jul-2023 23:40:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[03-Jul-2023 23:40:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[03-Jul-2023 23:41:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[03-Jul-2023 23:41:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[02-Aug-2023 21:01:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[02-Aug-2023 21:01:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[02-Aug-2023 21:01:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[02-Aug-2023 21:01:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[02-Aug-2023 21:01:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[02-Aug-2023 21:01:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[02-Aug-2023 21:01:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[02-Aug-2023 21:01:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[02-Aug-2023 21:01:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[02-Aug-2023 21:01:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[02-Aug-2023 21:01:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[02-Aug-2023 21:01:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[02-Aug-2023 21:01:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[02-Aug-2023 21:01:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[03-Aug-2023 22:53:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[03-Aug-2023 22:53:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[03-Aug-2023 22:53:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[03-Aug-2023 22:53:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[03-Aug-2023 22:53:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[03-Aug-2023 22:53:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[03-Aug-2023 22:53:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/national/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9

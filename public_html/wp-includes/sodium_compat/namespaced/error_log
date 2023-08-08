@@ -1,0 +1,108 @@
+[17-Jun-2023 08:15:21 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[17-Jun-2023 08:15:21 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[17-Jun-2023 08:15:28 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[17-Jun-2023 08:15:28 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[17-Jun-2023 08:17:14 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[17-Jun-2023 08:17:15 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[17-Jun-2023 08:19:40 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[17-Jun-2023 08:19:41 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[04-Jul-2023 00:01:44 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[04-Jul-2023 00:01:52 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[04-Jul-2023 00:02:00 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[22-Jul-2023 04:25:49 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[22-Jul-2023 04:25:50 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[22-Jul-2023 04:25:52 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[22-Jul-2023 04:25:53 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[22-Jul-2023 04:29:28 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[22-Jul-2023 04:29:31 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[22-Jul-2023 04:32:54 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[22-Jul-2023 04:32:55 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[24-Jul-2023 18:11:39 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[24-Jul-2023 18:11:40 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[24-Jul-2023 18:11:52 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[24-Jul-2023 18:11:53 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[24-Jul-2023 18:15:44 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[24-Jul-2023 18:15:45 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[24-Jul-2023 18:19:41 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[24-Jul-2023 18:19:41 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4

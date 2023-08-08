@@ -1,0 +1,32 @@
+[18-Jun-2023 20:28:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/national/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-admin/includes/admin.php on line 16
+[06-Jul-2023 23:52:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/national/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-admin/includes/admin.php on line 16
+[14-Jul-2023 00:08:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/national/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-admin/includes/admin.php on line 16
+[14-Jul-2023 00:09:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/national/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-admin/includes/admin.php on line 16
+[14-Jul-2023 01:25:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/national/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-admin/includes/admin.php on line 16
+[14-Jul-2023 01:25:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/national/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-admin/includes/admin.php on line 16
+[14-Jul-2023 01:34:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/national/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-admin/includes/admin.php on line 16
+[14-Jul-2023 01:35:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/national/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-admin/includes/admin.php on line 16

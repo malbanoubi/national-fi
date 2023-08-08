@@ -1,0 +1,52 @@
+[17-Jun-2023 08:14:49 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[17-Jun-2023 08:14:49 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[17-Jun-2023 08:16:47 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[17-Jun-2023 08:16:47 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[04-Jul-2023 00:01:21 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[22-Jul-2023 04:24:59 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[22-Jul-2023 04:25:00 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[22-Jul-2023 04:28:27 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[22-Jul-2023 04:28:30 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[24-Jul-2023 18:10:37 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[24-Jul-2023 18:10:38 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[24-Jul-2023 18:14:26 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[24-Jul-2023 18:14:27 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6

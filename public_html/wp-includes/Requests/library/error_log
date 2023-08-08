@@ -1,0 +1,32 @@
+[17-Jun-2023 07:28:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/Requests/library/Requests.php on line 12
+[17-Jun-2023 07:28:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/Requests/library/Requests.php on line 12
+[03-Jul-2023 23:32:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/Requests/library/Requests.php on line 12
+[22-Jul-2023 03:08:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/Requests/library/Requests.php on line 12
+[22-Jul-2023 03:08:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/Requests/library/Requests.php on line 12
+[24-Jul-2023 17:06:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/Requests/library/Requests.php on line 12
+[24-Jul-2023 17:06:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/Requests/library/Requests.php on line 12
+[03-Aug-2023 22:49:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/Requests/library/Requests.php on line 12

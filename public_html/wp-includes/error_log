@@ -1,0 +1,1352 @@
+[12-Jun-2023 20:56:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[12-Jun-2023 20:56:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[12-Jun-2023 20:56:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[12-Jun-2023 20:56:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[13-Jun-2023 05:34:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[13-Jun-2023 05:34:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[13-Jun-2023 05:34:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[13-Jun-2023 05:34:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[14-Jun-2023 13:27:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jun-2023 13:27:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[14-Jun-2023 13:27:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[14-Jun-2023 13:28:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[15-Jun-2023 11:09:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[15-Jun-2023 11:09:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[15-Jun-2023 11:09:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[15-Jun-2023 11:09:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[15-Jun-2023 15:58:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[15-Jun-2023 15:58:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[15-Jun-2023 15:58:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[15-Jun-2023 15:59:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[16-Jun-2023 20:09:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[16-Jun-2023 20:09:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[16-Jun-2023 20:09:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[16-Jun-2023 20:10:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[21-Jun-2023 15:35:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[21-Jun-2023 15:35:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[21-Jun-2023 15:35:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[21-Jun-2023 15:35:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[22-Jun-2023 14:44:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[22-Jun-2023 14:44:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[22-Jun-2023 14:44:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[22-Jun-2023 14:45:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[24-Jun-2023 20:50:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[24-Jun-2023 20:50:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[24-Jun-2023 20:50:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[24-Jun-2023 20:51:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[25-Jun-2023 22:45:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[25-Jun-2023 22:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[25-Jun-2023 22:45:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[25-Jun-2023 22:46:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[27-Jun-2023 17:01:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[27-Jun-2023 17:01:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[27-Jun-2023 17:01:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[27-Jun-2023 17:01:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[30-Jun-2023 01:32:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[30-Jun-2023 01:32:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[30-Jun-2023 01:32:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[30-Jun-2023 01:32:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[30-Jun-2023 20:47:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[30-Jun-2023 20:47:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[30-Jun-2023 20:47:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[30-Jun-2023 20:48:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[01-Jul-2023 06:45:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[01-Jul-2023 06:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[01-Jul-2023 06:45:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[01-Jul-2023 06:45:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[02-Jul-2023 08:31:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[02-Jul-2023 08:31:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[02-Jul-2023 08:32:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[02-Jul-2023 08:33:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[02-Jul-2023 18:20:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[02-Jul-2023 18:20:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[02-Jul-2023 18:20:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[02-Jul-2023 18:21:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[02-Jul-2023 20:16:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[02-Jul-2023 20:16:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[02-Jul-2023 20:16:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[02-Jul-2023 20:17:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[03-Jul-2023 07:21:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 07:21:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[03-Jul-2023 07:21:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[03-Jul-2023 07:21:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[03-Jul-2023 10:18:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 10:18:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[03-Jul-2023 10:18:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[03-Jul-2023 10:19:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[03-Jul-2023 23:43:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 23:43:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[03-Jul-2023 23:43:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[04-Jul-2023 00:03:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[05-Jul-2023 01:38:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[05-Jul-2023 01:38:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[05-Jul-2023 01:38:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[05-Jul-2023 01:39:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[05-Jul-2023 17:43:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[05-Jul-2023 17:43:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[05-Jul-2023 17:43:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[05-Jul-2023 17:44:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[07-Jul-2023 13:35:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[07-Jul-2023 13:35:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[07-Jul-2023 13:35:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[07-Jul-2023 13:35:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[07-Jul-2023 14:05:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[07-Jul-2023 14:05:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[07-Jul-2023 14:05:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[07-Jul-2023 20:30:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[07-Jul-2023 20:30:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[07-Jul-2023 20:31:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[07-Jul-2023 20:31:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[07-Jul-2023 23:13:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[07-Jul-2023 23:13:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[07-Jul-2023 23:13:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[07-Jul-2023 23:13:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[08-Jul-2023 02:37:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2023 02:37:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[08-Jul-2023 02:37:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[08-Jul-2023 02:38:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[09-Jul-2023 03:38:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[09-Jul-2023 03:38:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[09-Jul-2023 03:38:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[09-Jul-2023 03:39:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[09-Jul-2023 04:27:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[09-Jul-2023 04:27:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[09-Jul-2023 04:27:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[09-Jul-2023 04:28:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[09-Jul-2023 15:18:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[09-Jul-2023 15:18:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[09-Jul-2023 15:18:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[09-Jul-2023 15:18:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[10-Jul-2023 07:26:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[10-Jul-2023 07:26:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[10-Jul-2023 07:26:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[10-Jul-2023 07:26:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[10-Jul-2023 20:51:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[10-Jul-2023 20:51:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[10-Jul-2023 20:51:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[10-Jul-2023 20:51:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[12-Jul-2023 01:09:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[12-Jul-2023 01:09:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[12-Jul-2023 01:09:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[12-Jul-2023 01:10:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[12-Jul-2023 16:15:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[12-Jul-2023 16:15:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[12-Jul-2023 16:15:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[12-Jul-2023 16:16:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[13-Jul-2023 19:52:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[13-Jul-2023 19:52:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[13-Jul-2023 19:52:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[13-Jul-2023 19:52:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[14-Jul-2023 05:01:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jul-2023 05:01:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[14-Jul-2023 05:01:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[14-Jul-2023 05:02:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[14-Jul-2023 20:19:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jul-2023 20:19:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[14-Jul-2023 20:19:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[14-Jul-2023 20:20:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[15-Jul-2023 11:40:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[15-Jul-2023 11:40:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[15-Jul-2023 11:40:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[15-Jul-2023 11:40:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[16-Jul-2023 13:34:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[16-Jul-2023 13:34:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[16-Jul-2023 13:34:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[16-Jul-2023 13:35:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[16-Jul-2023 14:08:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[16-Jul-2023 14:09:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[16-Jul-2023 14:09:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[16-Jul-2023 14:10:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[16-Jul-2023 21:34:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[16-Jul-2023 21:34:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[16-Jul-2023 21:34:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[16-Jul-2023 21:35:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[17-Jul-2023 04:20:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[17-Jul-2023 04:20:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[17-Jul-2023 04:21:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[17-Jul-2023 04:21:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[17-Jul-2023 07:51:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[17-Jul-2023 07:51:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[17-Jul-2023 07:51:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[17-Jul-2023 07:52:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[18-Jul-2023 10:11:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[18-Jul-2023 10:11:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[18-Jul-2023 10:11:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[18-Jul-2023 10:12:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[18-Jul-2023 22:01:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[18-Jul-2023 22:01:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[18-Jul-2023 22:01:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[18-Jul-2023 22:01:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[20-Jul-2023 14:16:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[20-Jul-2023 14:16:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[20-Jul-2023 14:17:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[20-Jul-2023 14:17:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[20-Jul-2023 19:16:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[20-Jul-2023 19:16:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[20-Jul-2023 19:17:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[20-Jul-2023 19:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[21-Jul-2023 14:12:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[21-Jul-2023 14:12:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[21-Jul-2023 14:12:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[21-Jul-2023 14:13:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[23-Jul-2023 14:19:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[23-Jul-2023 14:19:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[23-Jul-2023 14:19:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[23-Jul-2023 14:20:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[24-Jul-2023 12:22:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[24-Jul-2023 12:22:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[24-Jul-2023 12:22:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[24-Jul-2023 12:22:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[24-Jul-2023 13:43:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[24-Jul-2023 13:43:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[24-Jul-2023 13:43:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[24-Jul-2023 13:44:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[25-Jul-2023 01:20:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[25-Jul-2023 01:20:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[25-Jul-2023 01:21:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[25-Jul-2023 01:22:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[25-Jul-2023 11:33:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[25-Jul-2023 11:33:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[25-Jul-2023 11:33:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[25-Jul-2023 11:34:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[25-Jul-2023 18:45:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[25-Jul-2023 18:45:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[25-Jul-2023 18:45:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[25-Jul-2023 18:46:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[26-Jul-2023 08:17:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[26-Jul-2023 08:17:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[26-Jul-2023 08:17:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[26-Jul-2023 08:17:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[26-Jul-2023 22:35:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[26-Jul-2023 22:35:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[26-Jul-2023 22:35:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[26-Jul-2023 22:36:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[27-Jul-2023 15:47:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[27-Jul-2023 15:48:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[27-Jul-2023 15:48:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[27-Jul-2023 15:48:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[27-Jul-2023 18:59:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[27-Jul-2023 18:59:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[27-Jul-2023 18:59:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[27-Jul-2023 19:00:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[27-Jul-2023 20:47:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[27-Jul-2023 20:47:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[27-Jul-2023 20:47:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[27-Jul-2023 20:48:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[28-Jul-2023 08:15:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[28-Jul-2023 08:15:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[28-Jul-2023 08:15:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[28-Jul-2023 08:16:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[28-Jul-2023 12:47:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[28-Jul-2023 12:47:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[28-Jul-2023 12:47:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[28-Jul-2023 12:48:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[28-Jul-2023 18:52:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[28-Jul-2023 18:52:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[28-Jul-2023 18:52:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[28-Jul-2023 18:54:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[29-Jul-2023 04:29:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[29-Jul-2023 04:29:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[29-Jul-2023 04:29:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[29-Jul-2023 04:29:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[29-Jul-2023 07:31:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[29-Jul-2023 07:31:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[29-Jul-2023 07:31:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[29-Jul-2023 07:32:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[29-Jul-2023 18:38:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[29-Jul-2023 18:38:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[29-Jul-2023 18:38:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[29-Jul-2023 18:39:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[30-Jul-2023 13:40:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[30-Jul-2023 13:41:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[30-Jul-2023 13:41:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[30-Jul-2023 13:42:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[30-Jul-2023 17:14:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[30-Jul-2023 17:14:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[30-Jul-2023 17:14:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[30-Jul-2023 17:15:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[31-Jul-2023 07:14:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[31-Jul-2023 07:15:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[31-Jul-2023 07:15:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[31-Jul-2023 07:18:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[01-Aug-2023 01:31:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[01-Aug-2023 01:31:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[01-Aug-2023 01:31:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[01-Aug-2023 01:32:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[02-Aug-2023 02:28:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[02-Aug-2023 02:28:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[02-Aug-2023 02:28:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[02-Aug-2023 02:29:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[02-Aug-2023 14:48:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[02-Aug-2023 14:48:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[02-Aug-2023 14:48:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[02-Aug-2023 14:49:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[02-Aug-2023 16:23:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[02-Aug-2023 16:23:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[02-Aug-2023 16:23:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[02-Aug-2023 16:24:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[02-Aug-2023 20:58:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[02-Aug-2023 20:59:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[02-Aug-2023 20:59:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[02-Aug-2023 20:59:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[02-Aug-2023 20:59:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[02-Aug-2023 20:59:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[02-Aug-2023 20:59:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[02-Aug-2023 20:59:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[02-Aug-2023 21:03:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[02-Aug-2023 21:03:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[02-Aug-2023 21:03:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[02-Aug-2023 21:03:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[02-Aug-2023 21:03:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[02-Aug-2023 21:03:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[02-Aug-2023 21:09:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[02-Aug-2023 21:09:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[03-Aug-2023 22:54:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[03-Aug-2023 22:55:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[03-Aug-2023 22:55:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[04-Aug-2023 00:07:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[04-Aug-2023 00:07:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[04-Aug-2023 00:07:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[04-Aug-2023 00:08:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[04-Aug-2023 15:19:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[04-Aug-2023 15:19:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[04-Aug-2023 15:19:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[04-Aug-2023 15:20:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[04-Aug-2023 15:35:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[04-Aug-2023 15:35:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[04-Aug-2023 15:35:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[04-Aug-2023 15:36:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[04-Aug-2023 17:51:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[04-Aug-2023 17:52:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[04-Aug-2023 17:52:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[04-Aug-2023 17:52:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[05-Aug-2023 21:10:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[05-Aug-2023 21:10:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[05-Aug-2023 21:10:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[05-Aug-2023 21:10:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[06-Aug-2023 13:42:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[06-Aug-2023 13:42:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[06-Aug-2023 13:42:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[06-Aug-2023 13:43:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[07-Aug-2023 09:14:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[07-Aug-2023 09:14:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[07-Aug-2023 09:14:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[07-Aug-2023 09:15:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12
+[07-Aug-2023 16:54:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/national/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-http.php on line 11
+[07-Aug-2023 16:54:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-scripts.php on line 18
+[07-Aug-2023 16:54:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/national/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/class-wp-styles.php on line 18
+[07-Aug-2023 16:55:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/national/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/template-canvas.php on line 12

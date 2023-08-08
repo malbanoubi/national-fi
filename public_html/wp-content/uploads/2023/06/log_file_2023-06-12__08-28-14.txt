@@ -1,0 +1,155 @@
+
+---Downloaded files---
+The import files for: Industrium were successfully downloaded!
+Initial max execution time = 10000
+Files info:
+Site URL = https://national-fi.com
+Data file = /home/national/public_html/wp-content/uploads/2023/06/demo-content-import-file_2023-06-12__08-28-14.xml
+Widget file = /home/national/public_html/wp-content/uploads/2023/06/demo-widgets-import-file_2023-06-12__08-28-14.json
+Customizer file = /home/national/public_html/wp-content/uploads/2023/06/demo-customizer-import-file_2023-06-12__08-28-14.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Factory
+[WARNING] Failed to import product_cat Factory
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Industry
+[WARNING] Failed to import product_tag Industry
+[WARNING] Failed to import product_tag Manufacturing
+[WARNING] Failed to import product_cat Manufacturing
+[WARNING] Failed to import product_cat Metal Works
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Robotics
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Page Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Post Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Career Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Service Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Side Panel Sidebar : 
+
+Block - No Title - Imported
+Contacts Widget (Industrium Theme) - Contacts - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+F.A.Q. Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer Top Sidebar : 
+
+Request Contacts (Industrium Theme) - No Title - Imported
+
+Footer Sidebar (Style 1) : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Navigation Menu (Industrium Theme) - Main Menu - Imported
+
+Footer Sidebar (Style 2) : 
+
+Block - No Title - Imported
+Navigation Menu (Industrium Theme) - Main Menu - Imported
+Block - No Title - Imported
+
+Footer Sidebar (Style 3) : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Navigation Menu (Industrium Theme) - Menu - Imported
+
+Footer Sidebar (Style 4) : 
+
+Block - No Title - Imported
+Navigation Menu (Industrium Theme) - Main Menu - Imported
+Block - No Title - Imported
+
+Footer Sidebar (Style 5) : 
+
+Block - No Title - Imported
+Navigation Menu (Industrium Theme) - Main Menu - Imported
+Block - No Title - Imported
+
+Footer Sidebar (Style 6) : 
+
+Block - No Title - Imported
+Navigation Menu (Industrium Theme) - Main Menu - Imported
+Block - No Title - Imported
+
+Footer Sidebar (Style 7) : 
+
+Block - No Title - Imported
+Navigation Menu (Industrium Theme) - Main Menu - Imported
+Block - No Title - Imported
+
+Footer Sidebar (Style 8) : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Navigation Menu (Industrium Theme) - Main Menu - Imported
+
+sidebar-woocommerce : Sidebar does not exist in theme (moving widget to Inactive)
+
+Block - No Title - Imported to Inactive
+Block - No Title - Imported to Inactive
+Block - No Title - Imported to Inactive
+Block - No Title - Imported to Inactive
+Block - No Title - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

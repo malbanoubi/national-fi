@@ -1,0 +1,8 @@
+[03-Jul-2023 23:36:19 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/national/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/SimplePie/Core.php on line 53
+[03-Aug-2023 22:50:23 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/national/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/national/public_html/wp-includes/SimplePie/Core.php on line 53

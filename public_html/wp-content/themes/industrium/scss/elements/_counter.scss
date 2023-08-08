@@ -1,0 +1,223 @@
+/********** Counter Elementor Widget **********/
+.elementor-widget-counter {
+    &.elementor-position-bottom {
+        .elementor-counter {            
+            .elementor-counter-title {                
+                &:not(:first-child) {
+                    margin-top: 8px;
+                }
+            }
+        }
+    }
+    &.elementor-position-top {
+        .elementor-counter {
+            @include flex(column-reverse, nowrap, stretch, stretch);
+            .elementor-counter-title {
+                margin-bottom: 5px;
+            }
+        }
+    }
+    &.elementor-position-right {
+        .elementor-counter {
+            @include flex(row, nowrap, stretch, center);
+            .elementor-counter-title {
+                &:not(:first-child) {
+                    margin-left: 10px;
+                }
+            }
+        }
+    }
+    &.elementor-position-left {
+        .elementor-counter {
+            @include flex(row-reverse, nowrap, stretch, center);
+            .elementor-counter-title {
+                &:not(:first-child) {
+                    margin-right: 10px;
+                }
+            }
+        }
+    }
+    &.elementor-counter-title-vertical {
+        .elementor-counter {
+            .elementor-counter-title {
+                writing-mode: vertical-rl;
+            }
+        }
+    }
+    .elementor-counter {
+        .elementor-counter-number-wrapper {
+            font-size: 80px;
+            line-height: 1em;
+            font-weight: 700;
+            white-space: nowrap;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            letter-spacing: -0.03em;
+            .elementor-counter-number-suffix,
+            .elementor-counter-number-prefix {
+                @include flex-grow(0);
+            }
+        }
+        .elementor-counter-title {
+            font-size: 25px;
+            line-height: 1.7778em;
+            font-weight: 500;
+            letter-spacing: -0.03em;
+            margin: 0;
+            text-align: initial;
+        }
+    }
+}
+
+// Alignment
+.elementor-widget-counter {
+    &.elementor-counter-alignment {
+        &-left {
+            .elementor-counter-number-wrapper {
+                justify-content: flex-start;
+            }
+            &.elementor-position-left {
+                .elementor-counter {
+                    @include justify-content(flex-end);
+                }
+            }
+            &.elementor-position-right {
+                .elementor-counter {
+                    @include justify-content(flex-start);
+                }
+            }
+        }
+        &-right {
+            .elementor-counter-number-wrapper {
+                justify-content: flex-end;
+            }
+            &.elementor-position-left {
+                .elementor-counter {
+                    @include justify-content(flex-start);
+                }
+            }
+            &.elementor-position-right {
+                .elementor-counter {
+                    @include justify-content(flex-end);
+                }
+            }
+        }
+        &-center {
+            .elementor-counter-number-wrapper {
+                justify-content: center;
+            }
+            &.elementor-position-left,
+            &.elementor-position-right {
+                .elementor-counter {
+                    @include justify-content(center);
+                }
+            }
+        }
+    }
+}
+@media only screen and (max-width: 575px) {
+    .elementor-widget-counter {
+        &.elementor-counter-alignment-mobile {
+            &-left {
+                .elementor-counter-number-wrapper {
+                    justify-content: flex-start;
+                }
+            }
+            &-right {
+                .elementor-counter-number-wrapper {
+                    justify-content: flex-end;
+                }
+            }
+            &-center {
+                .elementor-counter-number-wrapper {
+                    justify-content: center;
+                }
+            }
+        }
+    }
+}
+@media only screen and (max-width: 767px) {
+    .elementor-widget-counter {
+        &.elementor-counter-alignment-mobile_extra {
+            &-left {
+                .elementor-counter-number-wrapper {
+                    justify-content: flex-start;
+                }
+            }
+            &-right {
+                .elementor-counter-number-wrapper {
+                    justify-content: flex-end;
+                }
+            }
+            &-center {
+                .elementor-counter-number-wrapper {
+                    justify-content: center;
+                }
+            }
+        }
+    }
+}
+@media only screen and (max-width: 991px) {
+    .elementor-widget-counter {
+        &.elementor-counter-alignment-tablet {
+            &-left {
+                .elementor-counter-number-wrapper {
+                    justify-content: flex-start;
+                }
+            }
+            &-right {
+                .elementor-counter-number-wrapper {
+                    justify-content: flex-end;
+                }
+            }
+            &-center {
+                .elementor-counter-number-wrapper {
+                    justify-content: center;
+                }
+            }
+        }
+    }
+}
+@media only screen and (max-width: 1279px) {
+    .elementor-widget-counter {
+        &.elementor-counter-alignment-tablet_extra {
+            &-left {
+                .elementor-counter-number-wrapper {
+                    justify-content: flex-start;
+                }
+            }
+            &-right {
+                .elementor-counter-number-wrapper {
+                    justify-content: flex-end;
+                }
+            }
+            &-center {
+                .elementor-counter-number-wrapper {
+                    justify-content: center;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 1600px) {
+    .elementor-widget-counter {
+        &.elementor-counter-alignment-laptop {
+            &-left {
+                .elementor-counter-number-wrapper {
+                    justify-content: flex-start;
+                }
+            }
+            &-right {
+                .elementor-counter-number-wrapper {
+                    justify-content: flex-end;
+                }
+            }
+            &-center {
+                .elementor-counter-number-wrapper {
+                    justify-content: center;
+                }
+            }
+        }
+    }
+}
