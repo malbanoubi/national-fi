@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'national_wp' );
 
 /** Database username */
-define( 'DB_USER', 'national_wp' );
+define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '3,GbI;2HfvgZ' );
+define( 'DB_PASSWORD', 'root' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
